@@ -4,24 +4,18 @@ keywords:
   - markdown
   - publishing
   - manubot
+  - public_health
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: andtheWings
+    name: Daniel P. Riggins
+    initials: DPR
+    orcid:  0000-0002-6240-6212 
+    twitter: DanRiggins
+    email: daniel.riggins@protonmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Section of Preventive Medicine, Cook County Health
+      - Program in Public Health, Feinberg School of Medicine, Northwestern University
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - none
     corresponding: true
