@@ -1,4 +1,6 @@
-## Case Characteristics
+## Results
+
+### Case Characteristics
 
 Our automated method for identifying cases of SUID from medical examiner
 archives generated 333 prospective cases. After comparison with the gold
@@ -14,7 +16,7 @@ of 5 (derived from the census). SUID cases had a higher prevalence of
 Black infants and favored location in Chicago (vs. Cook County Suburbs)
 compared to the reference population.
 
-## Census Tract Aggregate Characteristics
+### Census Tract Aggregate Characteristics
 
 We tabulated characteristics of census tracts that had at least one case
 of SUID versus those that did not (Table XXX). Census tracts with at

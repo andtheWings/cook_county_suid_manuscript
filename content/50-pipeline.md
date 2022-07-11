@@ -1,4 +1,4 @@
-## Supplement 1 - Analytic Pipeline
+## Supplement 1: Analytic Pipeline
 
 ### Pipeline Overview
 
