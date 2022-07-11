@@ -9,6 +9,8 @@ lang: en-US
 date-meta: '2022-07-11'
 author-meta:
 - Daniel P. Riggins
+- Huiyuan Zhang
+- William E. Trick
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -32,15 +34,20 @@ header-includes: |-
   <meta name="citation_author_institution" content="Program in Public Health, Feinberg School of Medicine, Northwestern University" />
   <meta name="citation_author_orcid" content="0000-0002-6240-6212" />
   <meta name="twitter:creator" content="@DanRiggins" />
+  <meta name="citation_author" content="Huiyuan Zhang" />
+  <meta name="citation_author_institution" content="Center for Health Equity and Inclusion, Cook County Health" />
+  <meta name="citation_author" content="William E. Trick" />
+  <meta name="citation_author_institution" content="Center for Health Equity and Inclusion, Cook County Health" />
+  <meta name="citation_author_orcid" content="0000-0002-3243-5098" />
   <link rel="canonical" href="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta property="og:url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta property="twitter:url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/a7b361cc194d16509966cff709f924cd39194fd6/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/a7b361cc194d16509966cff709f924cd39194fd6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/a7b361cc194d16509966cff709f924cd39194fd6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/2db5cae84312d8f7eb0cb833bff519b0718b17c1/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/2db5cae84312d8f7eb0cb833bff519b0718b17c1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/2db5cae84312d8f7eb0cb833bff519b0718b17c1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/a7b361cc194d16509966cff709f924cd39194fd6/))
+([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/2db5cae84312d8f7eb0cb833bff519b0718b17c1/))
 was automatically generated
-from [andtheWings/cook_county_suid_manuscript@a7b361c](https://github.com/andtheWings/cook_county_suid_manuscript/tree/a7b361cc194d16509966cff709f924cd39194fd6)
+from [andtheWings/cook_county_suid_manuscript@2db5cae](https://github.com/andtheWings/cook_county_suid_manuscript/tree/2db5cae84312d8f7eb0cb833bff519b0718b17c1)
 on July 11, 2022.
 </em></small>
 
@@ -83,6 +90,20 @@ on July 11, 2022.
   <small>
      Section of Preventive Medicine, Cook County Health; Program in Public Health, Feinberg School of Medicine, Northwestern University
      · Funded by none
+  </small>
+
++ **Huiyuan Zhang**
+  <br><br>
+  <small>
+     Center for Health Equity and Inclusion, Cook County Health
+  </small>
+
++ **William E. Trick**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-3243-5098](https://orcid.org/0000-0002-3243-5098)<br>
+  <small>
+     Center for Health Equity and Inclusion, Cook County Health
   </small>
 
 
