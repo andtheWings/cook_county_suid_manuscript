@@ -2,14 +2,12 @@ andtheWings
 basemap
 CartoDB
 chloropleth
-COUNCLUSIONS
 DanRiggins
 disinvested
 DPR
 Englewood
 Feinberg
 FIPS
-Fujara
 geocoded
 geospatial
 Huiyuan
