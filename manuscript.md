@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/e22feb05e2c625f86ca05c932d90a61b66ad4e73/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/e22feb05e2c625f86ca05c932d90a61b66ad4e73/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/e22feb05e2c625f86ca05c932d90a61b66ad4e73/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/1931e2ec6a2598db66c0c7e3a462775d10865d2f/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/1931e2ec6a2598db66c0c7e3a462775d10865d2f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/1931e2ec6a2598db66c0c7e3a462775d10865d2f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/e22feb05e2c625f86ca05c932d90a61b66ad4e73/))
+([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/1931e2ec6a2598db66c0c7e3a462775d10865d2f/))
 was automatically generated
-from [andtheWings/cook_county_suid_manuscript@e22feb0](https://github.com/andtheWings/cook_county_suid_manuscript/tree/e22feb05e2c625f86ca05c932d90a61b66ad4e73)
+from [andtheWings/cook_county_suid_manuscript@1931e2e](https://github.com/andtheWings/cook_county_suid_manuscript/tree/1931e2ec6a2598db66c0c7e3a462775d10865d2f)
 on July 11, 2022.
 </em></small>
 
@@ -151,7 +151,7 @@ retrodict whether census tracts had or had not contained SIDS deaths,
 but it was not flexible enough to enumerate the number of deaths in a
 tract if that was any greater than a count of 2.
 
-CONCLUSIONS: Clinicians and public health practitioners should
+COUNCLUSIONS: Clinicians and public health practitioners should
 concentrate preventive efforts against SIDS in the specific geographic
 areas listed above. We shall explore why certain neighborhoods fared
 better or worse than expected by our model in order to identify
@@ -160,7 +160,9 @@ individuals and organizations from the Black community in the design of
 future interventions.
 
 
-## Case Characteristics
+## Results
+
+### Case Characteristics
 
 Our automated method for identifying cases of SUID from medical examiner
 archives generated 333 prospective cases. After comparison with the gold
@@ -176,7 +178,7 @@ of 5 (derived from the census). SUID cases had a higher prevalence of
 Black infants and favored location in Chicago (vs. Cook County Suburbs)
 compared to the reference population.
 
-## Census Tract Aggregate Characteristics
+### Census Tract Aggregate Characteristics
 
 We tabulated characteristics of census tracts that had at least one case
 of SUID versus those that did not (Table XXX). Census tracts with at
@@ -184,7 +186,7 @@ least one case of SUID appeared to have higher proportions of black
 people, XXX and lower proportions of XXX.
 
 
-## Supplement 1 - Analytic Pipeline
+## Supplement 1: Analytic Pipeline
 
 ### Pipeline Overview
 
