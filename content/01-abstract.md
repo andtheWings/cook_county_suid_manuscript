@@ -1,7 +1,5 @@
 ## Abstract
 
-*Daniel P. Riggins, Huiyuan Zhang, William E. Trick, Marjorie Fujara*
-
 BACKGROUND: Although overall rates of Sudden Infant Death Syndrome
 (SIDS) are declining, significant racial disparities persist in many
 metropolitan areas, including Cook County, IL. In some areas, public
@@ -35,7 +33,7 @@ retrodict whether census tracts had or had not contained SIDS deaths,
 but it was not flexible enough to enumerate the number of deaths in a
 tract if that was any greater than a count of 2.
 
-COUNCLUSIONS: Clinicians and public health practitioners should
+CONCLUSIONS: Clinicians and public health practitioners should
 concentrate preventive efforts against SIDS in the specific geographic
 areas listed above. We shall explore why certain neighborhoods fared
 better or worse than expected by our model in order to identify

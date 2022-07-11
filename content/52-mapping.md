@@ -1,4 +1,4 @@
-## Mapping
+### Mapping
 
 DPR generated maps using the
 {[leaflet](https://rstudio.github.io/leaflet/)} package ecosystem in R.
