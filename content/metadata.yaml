@@ -19,3 +19,14 @@ authors:
     funders:
       - none
     corresponding: true
+  - name: Huiyuan Zhang
+    initials: HZ
+    email: huiyuan.zhang@cookcountyhhs.org
+    affiliations:
+      - Center for Health Equity and Inclusion, Cook County Health
+  - name: William E. Trick
+    initials: WET
+    orcid:  0000-0002-3243-5098
+    email: wtrick@cookcountyhhs.org
+    affiliations: 
+      - Center for Health Equity and Inclusion, Cook County Health
