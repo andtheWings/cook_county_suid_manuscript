@@ -12,11 +12,14 @@ FIPS
 geocoded
 geospatial
 Huiyuan
+ile
+IQR
 Matteson
 opioid
 retrodict
 Riggins
 SUID
+SVI
 tidycensus
 viridis
 Zhang
