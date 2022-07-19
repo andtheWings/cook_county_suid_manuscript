@@ -23,12 +23,12 @@ of SUID versus those that did not (Table XXX). Census tracts with at
 least one case of SUID appeared to have higher proportions of black
 people, XXX and lower proportions of XXX.
 
-<div id="fkiftmsiea" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gaavbdygjy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#fkiftmsiea .gt_table {
+#gaavbdygjy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -53,7 +53,7 @@ people, XXX and lower proportions of XXX.
   border-left-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_heading {
+#gaavbdygjy .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -65,7 +65,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_title {
+#gaavbdygjy .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-width: 0;
 }
 
-#fkiftmsiea .gt_subtitle {
+#gaavbdygjy .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -89,13 +89,13 @@ people, XXX and lower proportions of XXX.
   border-top-width: 0;
 }
 
-#fkiftmsiea .gt_bottom_border {
+#gaavbdygjy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_col_headings {
+#gaavbdygjy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -110,7 +110,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_col_heading {
+#gaavbdygjy .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -130,7 +130,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#fkiftmsiea .gt_column_spanner_outer {
+#gaavbdygjy .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -142,15 +142,15 @@ people, XXX and lower proportions of XXX.
   padding-right: 4px;
 }
 
-#fkiftmsiea .gt_column_spanner_outer:first-child {
+#gaavbdygjy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fkiftmsiea .gt_column_spanner_outer:last-child {
+#gaavbdygjy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fkiftmsiea .gt_column_spanner {
+#gaavbdygjy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -162,7 +162,7 @@ people, XXX and lower proportions of XXX.
   width: 100%;
 }
 
-#fkiftmsiea .gt_group_heading {
+#gaavbdygjy .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -187,7 +187,7 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#fkiftmsiea .gt_empty_group_heading {
+#gaavbdygjy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -202,15 +202,15 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#fkiftmsiea .gt_from_md > :first-child {
+#gaavbdygjy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fkiftmsiea .gt_from_md > :last-child {
+#gaavbdygjy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fkiftmsiea .gt_row {
+#gaavbdygjy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -229,7 +229,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#fkiftmsiea .gt_stub {
+#gaavbdygjy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -242,7 +242,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#fkiftmsiea .gt_stub_row_group {
+#gaavbdygjy .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -256,11 +256,11 @@ people, XXX and lower proportions of XXX.
   vertical-align: top;
 }
 
-#fkiftmsiea .gt_row_group_first td {
+#gaavbdygjy .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#fkiftmsiea .gt_summary_row {
+#gaavbdygjy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -270,16 +270,16 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#fkiftmsiea .gt_first_summary_row {
+#gaavbdygjy .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_first_summary_row.thick {
+#gaavbdygjy .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#fkiftmsiea .gt_last_summary_row {
+#gaavbdygjy .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -289,7 +289,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_grand_summary_row {
+#gaavbdygjy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -299,7 +299,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#fkiftmsiea .gt_first_grand_summary_row {
+#gaavbdygjy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -309,11 +309,11 @@ people, XXX and lower proportions of XXX.
   border-top-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_striped {
+#gaavbdygjy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fkiftmsiea .gt_table_body {
+#gaavbdygjy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -322,7 +322,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_footnotes {
+#gaavbdygjy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -336,7 +336,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_footnote {
+#gaavbdygjy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -345,7 +345,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#fkiftmsiea .gt_sourcenotes {
+#gaavbdygjy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -359,7 +359,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#fkiftmsiea .gt_sourcenote {
+#gaavbdygjy .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -367,36 +367,36 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#fkiftmsiea .gt_left {
+#gaavbdygjy .gt_left {
   text-align: left;
 }
 
-#fkiftmsiea .gt_center {
+#gaavbdygjy .gt_center {
   text-align: center;
 }
 
-#fkiftmsiea .gt_right {
+#gaavbdygjy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fkiftmsiea .gt_font_normal {
+#gaavbdygjy .gt_font_normal {
   font-weight: normal;
 }
 
-#fkiftmsiea .gt_font_bold {
+#gaavbdygjy .gt_font_bold {
   font-weight: bold;
 }
 
-#fkiftmsiea .gt_font_italic {
+#gaavbdygjy .gt_font_italic {
   font-style: italic;
 }
 
-#fkiftmsiea .gt_super {
+#gaavbdygjy .gt_super {
   font-size: 65%;
 }
 
-#fkiftmsiea .gt_two_val_uncert {
+#gaavbdygjy .gt_two_val_uncert {
   display: inline-block;
   line-height: 1em;
   text-align: right;
@@ -405,31 +405,31 @@ people, XXX and lower proportions of XXX.
   margin-left: 0.1em;
 }
 
-#fkiftmsiea .gt_footnote_marks {
+#gaavbdygjy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#fkiftmsiea .gt_asterisk {
+#gaavbdygjy .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#fkiftmsiea .gt_slash_mark {
+#gaavbdygjy .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#fkiftmsiea .gt_fraction_numerator {
+#gaavbdygjy .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#fkiftmsiea .gt_fraction_denominator {
+#gaavbdygjy .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;
@@ -580,6 +580,12 @@ by Presence of SUID from 2015-2019</th>
     <tr class="gt_row_group_first"><td class="gt_row gt_right gt_stub" style="text-align: center;">Opioid-related deaths (count)</td>
 <td class="gt_row gt_center">2.0 (1.0, 5.0)</td>
 <td class="gt_row gt_center">5.0 (2.0, 8.0)</td></tr>
+    <tr class="gt_group_heading_row">
+      <td colspan="3" class="gt_empty_group_heading"></td>
+    </tr>
+    <tr class="gt_row_group_first"><td class="gt_row gt_right gt_stub" style="text-align: center;">approx_suid_incidence</td>
+<td class="gt_row gt_center">0 (0, 0)</td>
+<td class="gt_row gt_center">28 (16, 56)</td></tr>
   </tbody>
   
   <tfoot class="gt_footnotes">
@@ -590,4 +596,45 @@ by Presence of SUID from 2015-2019</th>
 </table>
 </div>
 
-### 
+### Mapping SUID Count per Census Tract
+
+We created an interactive map showing the count of SUID cases
+color-coded over each census tract. We subjectively noted clusters of
+deaths on the Westside of Chicago in neighborhoods like Garfield Park,
+Humboldt Park, and North Lawndale; on the Southside in neighborhoods
+like Englewood, Pullman, and Woodlawn; and in Southern suburbs like
+Chicago Heights, Harvey, Hazel Crest, Olympia Fields, and Park Forest.
+
+![](/home/riggins/cook_county_sids_mortality/markdown_output/30-results_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+
+### Modeling SUID Count per Census Tract
+
+We fitted a negative-binomial model (estimated using ML) to predict
+suid\_count with pop\_under\_five, public\_insurance,
+count\_opioid\_death and white (formula: suid\_count ~
+pop\_under\_five + public\_insurance + count\_opioid\_death + white +
+count\_opioid\_death:white). The model’s explanatory power is
+substantial (Nagelkerke’s R2 = 0.37). The model’s intercept,
+corresponding to pop\_under\_five = 0, public\_insurance = 0,
+count\_opioid\_death = 0 and white = 0, is at -2.44 (95% CI \[-3.20,
+-1.70\], p &lt; .001). Within this model:
+
+-   The effect of pop under five is statistically significant and
+    positive (beta = 1.01e-03, 95% CI \[2.39e-04, 1.77e-03\], p = 0.007;
+    Std. beta = 0.15, 95% CI \[0.04, 0.27\])
+-   The effect of public insurance is statistically significant and
+    positive (beta = 0.03, 95% CI \[0.02, 0.04\], p &lt; .001; Std. beta
+    = 0.52, 95% CI \[0.33, 0.71\])
+-   The effect of count opioid death is statistically non-significant
+    and positive (beta = 2.27e-04, 95% CI \[-0.02, 0.02\], p = 0.984;
+    Std. beta = 0.43, 95% CI \[0.27, 0.59\])
+-   The effect of white is statistically significant and negative (beta
+    = -0.02, 95% CI \[-0.03, -0.02\], p &lt; .001; Std. beta = -0.50,
+    95% CI \[-0.70, -0.30\])
+-   The interaction effect of white on count opioid death is
+    statistically significant and positive (beta = 1.73e-03, 95% CI
+    \[9.32e-04, 2.52e-03\], p &lt; .001; Std. beta = 0.25, 95% CI
+    \[0.14, 0.37\])
+
+Standardized parameters were obtained by fitting the model on a
+standardized version of the dataset.
