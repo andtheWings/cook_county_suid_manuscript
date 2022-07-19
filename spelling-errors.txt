@@ -4,6 +4,7 @@ CartoDB
 chloropleth
 COUNCLUSIONS
 DanRiggins
+dataset
 disinvested
 DPR
 Englewood
@@ -14,12 +15,17 @@ geospatial
 Huiyuan
 ile
 IQR
+Lawndale
 Matteson
+Nagelkerke’s
 opioid
 retrodict
 Riggins
-SUID
+Southside
+suid
 SVI
 tidycensus
 viridis
+Westside
+Woodlawn
 Zhang
