@@ -27,35 +27,45 @@ palette.
     ##     
     ##     obj1 <-
     ##         # Assign map to a widget object
-    ##         leaflet(suid_sf) |>
+    ##         leaflet::leaflet(suid_sf) |>
     ##             # Use CartoDB's background tiles
-    ##             addProviderTiles("CartoDB.Positron") |>
+    ##             leaflet::addProviderTiles("CartoDB.Positron") |>
     ##             # Center and zoom the map to Cook County
-    ##             setView(lat = 41.816544, lng = -87.749500, zoom = 9) |>
+    ##             leaflet::setView(lat = 41.816544, lng = -87.749500, zoom = 9) |>
     ##             # Add button to enable fullscreen map
     ##             leaflet.extras::addFullscreenControl() |>
     ##             # Add census tract polygons colored to reflect the number of deaths
-    ##             addPolygons(
+    ##             leaflet::addPolygons(
     ##                 # No borders to the polygons, just fill
-    ##                 stroke = FALSE,
+    ##                 color = "gray",
+    ##                 weight = 0.25,
+    ##                 opacity = 1,
     ##                 # Color according to palette above
-    ##                 color = ~ suid_palette(suid_count_factor),
+    ##                 fillColor = ~ suid_palette(suid_count_factor),
     ##                 # Group polygons by number of deaths for use in the layer control
     ##                 group = ~ suid_count_factor,
     ##                 # Make slightly transparent
     ##                 fillOpacity = 0.5,
+    ##                 label = "Click me for more details!",
     ##                 # Click on the polygon to get its ID
-    ##                 popup = ~ paste0("<b>FIPS ID:</b> ", as.character(fips))
+    ##                 popup = 
+    ##                     ~ paste0(
+    ##                         "<b>FIPS ID</b>: ", as.character(fips), "</br>",
+    ##                         "<b>SUID Count</b>: ", suid_count, " deaths</br>",
+    ##                         "<b>Total Population</b>: ", pop_total, " people</br>",
+    ##                         "<b>Population Under 5 Years Old</b>: ", pop_under_five, " children</br>",
+    ##                         "<b>Rough Incidence</b>: ", approx_suid_incidence, " deaths per 1,000 babies"
+    ##                     )
     ##             ) |>
     ##             #Add legend
-    ##             addLegend(
-    ##                 title = "Count of SUID <br> per census tract <br> in Cook County, IL <br> from 2015-2019",
+    ##             leaflet::addLegend(
+    ##                 title = "Count of SUID Cases<br> per census tract <br> in Cook County, IL <br> from 2015-2019",
     ##                 values = ~ suid_count_factor,
     ##                 pal = suid_palette,
     ##                 position = "topright"
     ##             ) |>
     ##             # Add ability to toggle each factor grouping on or off the map
-    ##             addLayersControl(
+    ##             leaflet::addLayersControl(
     ##                 overlayGroups = c(
     ##                     "No Deaths", 
     ##                     "One Death", 

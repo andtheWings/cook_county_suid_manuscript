@@ -122,6 +122,11 @@ estimates to the first decimal point for consistency:
     ##                     "Six+ Deaths"
     ##                 )
     ##             ),
+    ##             approx_suid_incidence =
+    ##                 round(
+    ##                     suid_count / (pop_under_five / 5) * 1000,
+    ##                     2
+    ##                 ),
     ##             across(
     ##                 .cols = starts_with("svi_"),
     ##                 .fns = ~ round((.x * 100), digits = 1)

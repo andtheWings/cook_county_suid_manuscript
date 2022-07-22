@@ -23,12 +23,12 @@ of SUID versus those that did not (Table XXX). Census tracts with at
 least one case of SUID appeared to have higher proportions of black
 people, XXX and lower proportions of XXX.
 
-<div id="gaavbdygjy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sbrmbfedmd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#gaavbdygjy .gt_table {
+#sbrmbfedmd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -53,7 +53,7 @@ people, XXX and lower proportions of XXX.
   border-left-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_heading {
+#sbrmbfedmd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -65,7 +65,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_title {
+#sbrmbfedmd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-width: 0;
 }
 
-#gaavbdygjy .gt_subtitle {
+#sbrmbfedmd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -89,13 +89,13 @@ people, XXX and lower proportions of XXX.
   border-top-width: 0;
 }
 
-#gaavbdygjy .gt_bottom_border {
+#sbrmbfedmd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_col_headings {
+#sbrmbfedmd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -110,7 +110,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_col_heading {
+#sbrmbfedmd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -130,7 +130,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#gaavbdygjy .gt_column_spanner_outer {
+#sbrmbfedmd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -142,15 +142,15 @@ people, XXX and lower proportions of XXX.
   padding-right: 4px;
 }
 
-#gaavbdygjy .gt_column_spanner_outer:first-child {
+#sbrmbfedmd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gaavbdygjy .gt_column_spanner_outer:last-child {
+#sbrmbfedmd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gaavbdygjy .gt_column_spanner {
+#sbrmbfedmd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -162,7 +162,7 @@ people, XXX and lower proportions of XXX.
   width: 100%;
 }
 
-#gaavbdygjy .gt_group_heading {
+#sbrmbfedmd .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -187,7 +187,7 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#gaavbdygjy .gt_empty_group_heading {
+#sbrmbfedmd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -202,15 +202,15 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#gaavbdygjy .gt_from_md > :first-child {
+#sbrmbfedmd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gaavbdygjy .gt_from_md > :last-child {
+#sbrmbfedmd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gaavbdygjy .gt_row {
+#sbrmbfedmd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -229,7 +229,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#gaavbdygjy .gt_stub {
+#sbrmbfedmd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -242,7 +242,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_stub_row_group {
+#sbrmbfedmd .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -256,11 +256,11 @@ people, XXX and lower proportions of XXX.
   vertical-align: top;
 }
 
-#gaavbdygjy .gt_row_group_first td {
+#sbrmbfedmd .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#gaavbdygjy .gt_summary_row {
+#sbrmbfedmd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -270,16 +270,16 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_first_summary_row {
+#sbrmbfedmd .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_first_summary_row.thick {
+#sbrmbfedmd .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#gaavbdygjy .gt_last_summary_row {
+#sbrmbfedmd .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -289,7 +289,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_grand_summary_row {
+#sbrmbfedmd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -299,7 +299,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_first_grand_summary_row {
+#sbrmbfedmd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -309,11 +309,11 @@ people, XXX and lower proportions of XXX.
   border-top-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_striped {
+#sbrmbfedmd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gaavbdygjy .gt_table_body {
+#sbrmbfedmd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -322,7 +322,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_footnotes {
+#sbrmbfedmd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -336,7 +336,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_footnote {
+#sbrmbfedmd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -345,7 +345,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_sourcenotes {
+#sbrmbfedmd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -359,7 +359,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_sourcenote {
+#sbrmbfedmd .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -367,36 +367,36 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_left {
+#sbrmbfedmd .gt_left {
   text-align: left;
 }
 
-#gaavbdygjy .gt_center {
+#sbrmbfedmd .gt_center {
   text-align: center;
 }
 
-#gaavbdygjy .gt_right {
+#sbrmbfedmd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gaavbdygjy .gt_font_normal {
+#sbrmbfedmd .gt_font_normal {
   font-weight: normal;
 }
 
-#gaavbdygjy .gt_font_bold {
+#sbrmbfedmd .gt_font_bold {
   font-weight: bold;
 }
 
-#gaavbdygjy .gt_font_italic {
+#sbrmbfedmd .gt_font_italic {
   font-style: italic;
 }
 
-#gaavbdygjy .gt_super {
+#sbrmbfedmd .gt_super {
   font-size: 65%;
 }
 
-#gaavbdygjy .gt_two_val_uncert {
+#sbrmbfedmd .gt_two_val_uncert {
   display: inline-block;
   line-height: 1em;
   text-align: right;
@@ -405,31 +405,31 @@ people, XXX and lower proportions of XXX.
   margin-left: 0.1em;
 }
 
-#gaavbdygjy .gt_footnote_marks {
+#sbrmbfedmd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#gaavbdygjy .gt_asterisk {
+#sbrmbfedmd .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#gaavbdygjy .gt_slash_mark {
+#sbrmbfedmd .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#gaavbdygjy .gt_fraction_numerator {
+#sbrmbfedmd .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#gaavbdygjy .gt_fraction_denominator {
+#sbrmbfedmd .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;
@@ -605,7 +605,8 @@ Humboldt Park, and North Lawndale; on the Southside in neighborhoods
 like Englewood, Pullman, and Woodlawn; and in Southern suburbs like
 Chicago Heights, Harvey, Hazel Crest, Olympia Fields, and Park Forest.
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/30-results_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+<iframe src="https://danielriggins.com/widgets/cook_county_suid_map.html" title="W3Schools Free Online Web Tutorials" width="100%" height="500px" data-external="1">
+</iframe>
 
 ### Modeling SUID Count per Census Tract
 
