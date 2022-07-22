@@ -23,12 +23,12 @@ of SUID versus those that did not (Table XXX). Census tracts with at
 least one case of SUID appeared to have higher proportions of black
 people, XXX and lower proportions of XXX.
 
-<div id="sbrmbfedmd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lwblasqguc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#sbrmbfedmd .gt_table {
+#lwblasqguc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -53,7 +53,7 @@ people, XXX and lower proportions of XXX.
   border-left-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_heading {
+#lwblasqguc .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -65,7 +65,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_title {
+#lwblasqguc .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-width: 0;
 }
 
-#sbrmbfedmd .gt_subtitle {
+#lwblasqguc .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -89,13 +89,13 @@ people, XXX and lower proportions of XXX.
   border-top-width: 0;
 }
 
-#sbrmbfedmd .gt_bottom_border {
+#lwblasqguc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_col_headings {
+#lwblasqguc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -110,7 +110,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_col_heading {
+#lwblasqguc .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -130,7 +130,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#sbrmbfedmd .gt_column_spanner_outer {
+#lwblasqguc .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -142,15 +142,15 @@ people, XXX and lower proportions of XXX.
   padding-right: 4px;
 }
 
-#sbrmbfedmd .gt_column_spanner_outer:first-child {
+#lwblasqguc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#sbrmbfedmd .gt_column_spanner_outer:last-child {
+#lwblasqguc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#sbrmbfedmd .gt_column_spanner {
+#lwblasqguc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -162,7 +162,7 @@ people, XXX and lower proportions of XXX.
   width: 100%;
 }
 
-#sbrmbfedmd .gt_group_heading {
+#lwblasqguc .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -187,7 +187,7 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#sbrmbfedmd .gt_empty_group_heading {
+#lwblasqguc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -202,15 +202,15 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#sbrmbfedmd .gt_from_md > :first-child {
+#lwblasqguc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#sbrmbfedmd .gt_from_md > :last-child {
+#lwblasqguc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#sbrmbfedmd .gt_row {
+#lwblasqguc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -229,7 +229,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#sbrmbfedmd .gt_stub {
+#lwblasqguc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -242,7 +242,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#sbrmbfedmd .gt_stub_row_group {
+#lwblasqguc .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -256,11 +256,11 @@ people, XXX and lower proportions of XXX.
   vertical-align: top;
 }
 
-#sbrmbfedmd .gt_row_group_first td {
+#lwblasqguc .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#sbrmbfedmd .gt_summary_row {
+#lwblasqguc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -270,16 +270,16 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#sbrmbfedmd .gt_first_summary_row {
+#lwblasqguc .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_first_summary_row.thick {
+#lwblasqguc .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#sbrmbfedmd .gt_last_summary_row {
+#lwblasqguc .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -289,7 +289,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_grand_summary_row {
+#lwblasqguc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -299,7 +299,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#sbrmbfedmd .gt_first_grand_summary_row {
+#lwblasqguc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -309,11 +309,11 @@ people, XXX and lower proportions of XXX.
   border-top-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_striped {
+#lwblasqguc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#sbrmbfedmd .gt_table_body {
+#lwblasqguc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -322,7 +322,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_footnotes {
+#lwblasqguc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -336,7 +336,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_footnote {
+#lwblasqguc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -345,7 +345,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#sbrmbfedmd .gt_sourcenotes {
+#lwblasqguc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -359,7 +359,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#sbrmbfedmd .gt_sourcenote {
+#lwblasqguc .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -367,36 +367,36 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#sbrmbfedmd .gt_left {
+#lwblasqguc .gt_left {
   text-align: left;
 }
 
-#sbrmbfedmd .gt_center {
+#lwblasqguc .gt_center {
   text-align: center;
 }
 
-#sbrmbfedmd .gt_right {
+#lwblasqguc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#sbrmbfedmd .gt_font_normal {
+#lwblasqguc .gt_font_normal {
   font-weight: normal;
 }
 
-#sbrmbfedmd .gt_font_bold {
+#lwblasqguc .gt_font_bold {
   font-weight: bold;
 }
 
-#sbrmbfedmd .gt_font_italic {
+#lwblasqguc .gt_font_italic {
   font-style: italic;
 }
 
-#sbrmbfedmd .gt_super {
+#lwblasqguc .gt_super {
   font-size: 65%;
 }
 
-#sbrmbfedmd .gt_two_val_uncert {
+#lwblasqguc .gt_two_val_uncert {
   display: inline-block;
   line-height: 1em;
   text-align: right;
@@ -405,31 +405,31 @@ people, XXX and lower proportions of XXX.
   margin-left: 0.1em;
 }
 
-#sbrmbfedmd .gt_footnote_marks {
+#lwblasqguc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#sbrmbfedmd .gt_asterisk {
+#lwblasqguc .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#sbrmbfedmd .gt_slash_mark {
+#lwblasqguc .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#sbrmbfedmd .gt_fraction_numerator {
+#lwblasqguc .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#sbrmbfedmd .gt_fraction_denominator {
+#lwblasqguc .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;

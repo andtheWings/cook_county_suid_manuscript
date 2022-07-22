@@ -25,35 +25,147 @@ Here is information on the R session and its dependencies:
     ## LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so
     ## 
     ## locale:
-    ##  [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C               LC_TIME=en_US.UTF-8       
-    ##  [4] LC_COLLATE=en_US.UTF-8     LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
-    ##  [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                  LC_ADDRESS=C              
-    ## [10] LC_TELEPHONE=C             LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+    ##  [1] LC_CTYPE=en_US.UTF-8      
+    ##  [2] LC_NUMERIC=C              
+    ##  [3] LC_TIME=en_US.UTF-8       
+    ##  [4] LC_COLLATE=en_US.UTF-8    
+    ##  [5] LC_MONETARY=en_US.UTF-8   
+    ##  [6] LC_MESSAGES=en_US.UTF-8   
+    ##  [7] LC_PAPER=en_US.UTF-8      
+    ##  [8] LC_NAME=C                 
+    ##  [9] LC_ADDRESS=C              
+    ## [10] LC_TELEPHONE=C            
+    ## [11] LC_MEASUREMENT=en_US.UTF-8
+    ## [12] LC_IDENTIFICATION=C       
     ## 
     ## attached base packages:
-    ## [1] stats     graphics  grDevices utils     datasets  methods   base     
+    ## [1] stats     graphics  grDevices
+    ## [4] utils     datasets  methods  
+    ## [7] base     
     ## 
     ## other attached packages:
-    ## [1] targets_0.12.1
+    ##  [1] magrittr_2.0.3   
+    ##  [2] gt_0.6.0         
+    ##  [3] lubridate_1.8.0  
+    ##  [4] tidycensus_1.2.2 
+    ##  [5] sf_1.0-8         
+    ##  [6] forcats_0.5.1    
+    ##  [7] stringr_1.4.0    
+    ##  [8] dplyr_1.0.9      
+    ##  [9] readr_2.1.2      
+    ## [10] tidyr_1.2.0      
+    ## [11] tibble_3.1.7     
+    ## [12] tidyverse_1.3.2  
+    ## [13] targets_0.12.1   
+    ## [14] purrr_0.3.4      
+    ## [15] ggplot2_3.3.6    
+    ## [16] performance_0.9.1
     ## 
     ## loaded via a namespace (and not attached):
-    ##  [1] Rcpp_1.0.9              tidyr_1.2.0             class_7.3-20            ps_1.7.1               
-    ##  [5] leaflet.providers_1.9.0 assertthat_0.2.1        digest_0.6.29           utf8_1.2.2             
-    ##  [9] R6_2.5.1                backports_1.4.1         leaflet.extras_1.0.0    evaluate_0.15          
-    ## [13] e1071_1.7-11            ggplot2_3.3.6           pillar_1.8.0            rlang_1.0.4            
-    ## [17] rstudioapi_0.13         data.table_1.14.2       callr_3.7.1             jquerylib_0.1.4        
-    ## [21] checkmate_2.1.0         rmarkdown_2.14          stringr_1.4.0           htmlwidgets_1.5.4      
-    ## [25] igraph_1.3.4            munsell_0.5.0           proxy_0.4-27            compiler_4.2.1         
-    ## [29] xfun_0.31               pkgconfig_2.0.3         htmltools_0.5.3         tidyselect_1.1.2       
-    ## [33] tibble_3.1.7            gridExtra_2.3           corrr_0.4.3             codetools_0.2-18       
-    ## [37] fansi_1.0.3             viridisLite_0.4.0       crayon_1.5.1            dplyr_1.0.9            
-    ## [41] withr_2.5.0             sf_1.0-8                commonmark_1.8.0        grid_4.2.1             
-    ## [45] jsonlite_1.8.0          gtable_0.3.0            lifecycle_1.0.1         DBI_1.1.3              
-    ## [49] magrittr_2.0.3          units_0.8-0             scales_1.2.0            KernSmooth_2.23-20     
-    ## [53] cachem_1.0.6            cli_3.3.0               stringi_1.7.8           farver_2.1.1           
-    ## [57] viridis_0.6.2           broom.helpers_1.8.0     leaflet_2.1.1           bslib_0.4.0            
-    ## [61] ellipsis_0.3.2          generics_0.1.3          vctrs_0.4.1             RColorBrewer_1.1-3     
-    ## [65] tools_4.2.1             glue_1.6.2              purrr_0.3.4             crosstalk_1.2.0        
-    ## [69] processx_3.7.0          fastmap_1.1.0           yaml_2.3.5              colorspace_2.0-3       
-    ## [73] gtsummary_1.6.1         gt_0.6.0                base64url_1.4           classInt_0.4-7         
-    ## [77] knitr_1.39              sass_0.4.2
+    ##   [1] googledrive_2.0.0  
+    ##   [2] colorspace_2.0-3   
+    ##   [3] ellipsis_0.3.2     
+    ##   [4] class_7.3-20       
+    ##   [5] leaflet_2.1.1      
+    ##   [6] rgdal_1.5-32       
+    ##   [7] estimability_1.4   
+    ##   [8] snakecase_0.11.0   
+    ##   [9] parameters_0.18.1  
+    ##  [10] fs_1.5.2           
+    ##  [11] rstudioapi_0.13    
+    ##  [12] proxy_0.4-27       
+    ##  [13] farver_2.1.1       
+    ##  [14] gtsummary_1.6.1    
+    ##  [15] fansi_1.0.3        
+    ##  [16] mvtnorm_1.1-3      
+    ##  [17] xml2_1.3.3         
+    ##  [18] splines_4.2.1      
+    ##  [19] codetools_0.2-18   
+    ##  [20] pscl_1.5.5         
+    ##  [21] knitr_1.39         
+    ##  [22] jsonlite_1.8.0     
+    ##  [23] broom_1.0.0        
+    ##  [24] dbplyr_2.2.1       
+    ##  [25] compiler_4.2.1     
+    ##  [26] httr_1.4.3         
+    ##  [27] emmeans_1.7.5      
+    ##  [28] backports_1.4.1    
+    ##  [29] Matrix_1.4-1       
+    ##  [30] assertthat_0.2.1   
+    ##  [31] fastmap_1.1.0      
+    ##  [32] gargle_1.2.0       
+    ##  [33] cli_3.3.0          
+    ##  [34] htmltools_0.5.3    
+    ##  [35] tools_4.2.1        
+    ##  [36] igraph_1.3.4       
+    ##  [37] gtable_0.3.0       
+    ##  [38] glue_1.6.2         
+    ##  [39] corrr_0.4.3        
+    ##  [40] rappdirs_0.3.3     
+    ##  [41] Rcpp_1.0.9         
+    ##  [42] cellranger_1.1.0   
+    ##  [43] vctrs_0.4.1        
+    ##  [44] nlme_3.1-157       
+    ##  [45] tigris_1.6.1       
+    ##  [46] broom.helpers_1.8.0
+    ##  [47] crosstalk_1.2.0    
+    ##  [48] insight_0.18.0     
+    ##  [49] xfun_0.31          
+    ##  [50] networkD3_0.4      
+    ##  [51] ps_1.7.1           
+    ##  [52] rvest_1.0.2        
+    ##  [53] lifecycle_1.0.1    
+    ##  [54] googlesheets4_1.0.0
+    ##  [55] MASS_7.3-58        
+    ##  [56] scales_1.2.0       
+    ##  [57] hms_1.1.1          
+    ##  [58] parallel_4.2.1     
+    ##  [59] yaml_2.3.5         
+    ##  [60] gridExtra_2.3      
+    ##  [61] see_0.7.1          
+    ##  [62] sass_0.4.2         
+    ##  [63] stringi_1.7.8      
+    ##  [64] bayestestR_0.12.1  
+    ##  [65] maptools_1.1-4     
+    ##  [66] e1071_1.7-11       
+    ##  [67] checkmate_2.1.0    
+    ##  [68] commonmark_1.8.0   
+    ##  [69] rlang_1.0.4        
+    ##  [70] pkgconfig_2.0.3    
+    ##  [71] evaluate_0.15      
+    ##  [72] lattice_0.20-45    
+    ##  [73] htmlwidgets_1.5.4  
+    ##  [74] labeling_0.4.2     
+    ##  [75] processx_3.7.0     
+    ##  [76] tidyselect_1.1.2   
+    ##  [77] DataExplorer_0.8.2 
+    ##  [78] R6_2.5.1           
+    ##  [79] generics_0.1.3     
+    ##  [80] base64url_1.4      
+    ##  [81] DBI_1.1.3          
+    ##  [82] mgcv_1.8-40        
+    ##  [83] pillar_1.8.0       
+    ##  [84] haven_2.5.0        
+    ##  [85] foreign_0.8-82     
+    ##  [86] withr_2.5.0        
+    ##  [87] units_0.8-0        
+    ##  [88] datawizard_0.4.1   
+    ##  [89] sp_1.5-0           
+    ##  [90] janitor_2.1.0      
+    ##  [91] modelr_0.1.8       
+    ##  [92] crayon_1.5.1       
+    ##  [93] uuid_1.1-0         
+    ##  [94] KernSmooth_2.23-20 
+    ##  [95] utf8_1.2.2         
+    ##  [96] correlation_0.8.1  
+    ##  [97] tzdb_0.3.0         
+    ##  [98] rmarkdown_2.14     
+    ##  [99] grid_4.2.1         
+    ## [100] readxl_1.4.0       
+    ## [101] data.table_1.14.2  
+    ## [102] callr_3.7.1        
+    ## [103] reprex_2.0.1       
+    ## [104] digest_0.6.29      
+    ## [105] classInt_0.4-7     
+    ## [106] xtable_1.8-4       
+    ## [107] munsell_0.5.0
