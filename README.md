@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/andtheWings/cook_county_suid_manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://andtheWings.github.io/cook_county_suid_manuscript/>.
-The permalink for this webpage version is <https://andtheWings.github.io/cook_county_suid_manuscript/v/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02/>.
+The permalink for this webpage version is <https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://andtheWings.github.io/cook_county_suid_manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02`](https://github.com/andtheWings/cook_county_suid_manuscript/commit/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02).
+[`7435bb4f4da6b1d2c3a4710c3f236e45e4bca108`](https://github.com/andtheWings/cook_county_suid_manuscript/commit/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108).
