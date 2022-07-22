@@ -79,7 +79,7 @@ Here is the relationship visualized:
 
     plot(correlation::cor_test(as_tibble(suid), "suid_count", "public_insurance"))
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://i.postimg.cc/vB0RtjFh/unnamed-chunk-3-1.png)
 
 In order to minimize multicollinearity with additional predictor
 variables, we next selected for variables that had some degree of
@@ -108,7 +108,7 @@ in each census tract.
 
     plot(correlation::cor_test(as_tibble(suid), "suid_count", "count_opioid_death"))
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](https://i.postimg.cc/5yrZZCtF/unnamed-chunk-5-1.png)
 
 There was a large outlier of many opioid deaths in a tract with no SUID
 deaths, but otherwise, there seemed to be a strong positive trend.
@@ -147,7 +147,7 @@ candidate predictors:
         DataExplorer::plot_histogram() |>
         summary()
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](https://i.postimg.cc/SRRBTrmh/unnamed-chunk-6-1.png)
 
     ##  pop_under_five   public_insurance
     ##  Min.   :   0.0   Min.   : 2.50   
@@ -2307,22 +2307,22 @@ Another way to compare the goodness of fit was with a visual check of
 
     ## $poisson
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](https://i.postimg.cc/RZKjDqxN/unnamed-chunk-11-1.png)
 
     ## 
     ## $zero_infl_poisson
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-2.png)
+![](https://i.postimg.cc/SN20cDZL/unnamed-chunk-11-2.png)
 
     ## 
     ## $neb_bin
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-3.png)
+![](https://i.postimg.cc/CM6TZW4L/unnamed-chunk-11-3.png)
 
     ## 
     ## $zero_infl_neg_bin
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-4.png)
+![](https://i.postimg.cc/fT6GCmFG/unnamed-chunk-11-4.png)
 
 Visually speaking, the negative binomial model type and its
 zero-inflated variant looked almost identical, so we felt further
