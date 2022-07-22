@@ -6,7 +6,7 @@ keywords:
 - manubot
 - public_health
 lang: en-US
-date-meta: '2022-07-19'
+date-meta: '2022-07-22'
 author-meta:
 - Daniel P. Riggins
 - Huiyuan Zhang
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="Sudden Unexpected Infant Death in Cook County, IL from 2015-2019" />
   <meta property="og:title" content="Sudden Unexpected Infant Death in Cook County, IL from 2015-2019" />
   <meta property="twitter:title" content="Sudden Unexpected Infant Death in Cook County, IL from 2015-2019" />
-  <meta name="dc.date" content="2022-07-19" />
-  <meta name="citation_publication_date" content="2022-07-19" />
+  <meta name="dc.date" content="2022-07-22" />
+  <meta name="citation_publication_date" content="2022-07-22" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/4ca53c790d757af59912a073a6429d894595a0e4/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/4ca53c790d757af59912a073a6429d894595a0e4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/4ca53c790d757af59912a073a6429d894595a0e4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/8ecfcf33063da29b80bb41b385e7770ee725f0e4/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/8ecfcf33063da29b80bb41b385e7770ee725f0e4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/8ecfcf33063da29b80bb41b385e7770ee725f0e4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/4ca53c790d757af59912a073a6429d894595a0e4/))
+([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/8ecfcf33063da29b80bb41b385e7770ee725f0e4/))
 was automatically generated
-from [andtheWings/cook_county_suid_manuscript@4ca53c7](https://github.com/andtheWings/cook_county_suid_manuscript/tree/4ca53c790d757af59912a073a6429d894595a0e4)
-on July 19, 2022.
+from [andtheWings/cook_county_suid_manuscript@8ecfcf3](https://github.com/andtheWings/cook_county_suid_manuscript/tree/8ecfcf33063da29b80bb41b385e7770ee725f0e4)
+on July 22, 2022.
 </em></small>
 
 ## Authors
@@ -185,12 +185,12 @@ of SUID versus those that did not (Table XXX). Census tracts with at
 least one case of SUID appeared to have higher proportions of black
 people, XXX and lower proportions of XXX.
 
-<div id="gaavbdygjy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sbrmbfedmd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#gaavbdygjy .gt_table {
+#sbrmbfedmd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -215,7 +215,7 @@ people, XXX and lower proportions of XXX.
   border-left-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_heading {
+#sbrmbfedmd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -227,7 +227,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_title {
+#sbrmbfedmd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -239,7 +239,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-width: 0;
 }
 
-#gaavbdygjy .gt_subtitle {
+#sbrmbfedmd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -251,13 +251,13 @@ people, XXX and lower proportions of XXX.
   border-top-width: 0;
 }
 
-#gaavbdygjy .gt_bottom_border {
+#sbrmbfedmd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_col_headings {
+#sbrmbfedmd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -272,7 +272,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_col_heading {
+#sbrmbfedmd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -292,7 +292,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#gaavbdygjy .gt_column_spanner_outer {
+#sbrmbfedmd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -304,15 +304,15 @@ people, XXX and lower proportions of XXX.
   padding-right: 4px;
 }
 
-#gaavbdygjy .gt_column_spanner_outer:first-child {
+#sbrmbfedmd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gaavbdygjy .gt_column_spanner_outer:last-child {
+#sbrmbfedmd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gaavbdygjy .gt_column_spanner {
+#sbrmbfedmd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -324,7 +324,7 @@ people, XXX and lower proportions of XXX.
   width: 100%;
 }
 
-#gaavbdygjy .gt_group_heading {
+#sbrmbfedmd .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -349,7 +349,7 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#gaavbdygjy .gt_empty_group_heading {
+#sbrmbfedmd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -364,15 +364,15 @@ people, XXX and lower proportions of XXX.
   vertical-align: middle;
 }
 
-#gaavbdygjy .gt_from_md > :first-child {
+#sbrmbfedmd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gaavbdygjy .gt_from_md > :last-child {
+#sbrmbfedmd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gaavbdygjy .gt_row {
+#sbrmbfedmd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -391,7 +391,7 @@ people, XXX and lower proportions of XXX.
   overflow-x: hidden;
 }
 
-#gaavbdygjy .gt_stub {
+#sbrmbfedmd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -404,7 +404,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_stub_row_group {
+#sbrmbfedmd .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -418,11 +418,11 @@ people, XXX and lower proportions of XXX.
   vertical-align: top;
 }
 
-#gaavbdygjy .gt_row_group_first td {
+#sbrmbfedmd .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#gaavbdygjy .gt_summary_row {
+#sbrmbfedmd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -432,16 +432,16 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_first_summary_row {
+#sbrmbfedmd .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_first_summary_row.thick {
+#sbrmbfedmd .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#gaavbdygjy .gt_last_summary_row {
+#sbrmbfedmd .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -451,7 +451,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_grand_summary_row {
+#sbrmbfedmd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -461,7 +461,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_first_grand_summary_row {
+#sbrmbfedmd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -471,11 +471,11 @@ people, XXX and lower proportions of XXX.
   border-top-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_striped {
+#sbrmbfedmd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gaavbdygjy .gt_table_body {
+#sbrmbfedmd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -484,7 +484,7 @@ people, XXX and lower proportions of XXX.
   border-bottom-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_footnotes {
+#sbrmbfedmd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -498,7 +498,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_footnote {
+#sbrmbfedmd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -507,7 +507,7 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_sourcenotes {
+#sbrmbfedmd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -521,7 +521,7 @@ people, XXX and lower proportions of XXX.
   border-right-color: #D3D3D3;
 }
 
-#gaavbdygjy .gt_sourcenote {
+#sbrmbfedmd .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -529,36 +529,36 @@ people, XXX and lower proportions of XXX.
   padding-right: 5px;
 }
 
-#gaavbdygjy .gt_left {
+#sbrmbfedmd .gt_left {
   text-align: left;
 }
 
-#gaavbdygjy .gt_center {
+#sbrmbfedmd .gt_center {
   text-align: center;
 }
 
-#gaavbdygjy .gt_right {
+#sbrmbfedmd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gaavbdygjy .gt_font_normal {
+#sbrmbfedmd .gt_font_normal {
   font-weight: normal;
 }
 
-#gaavbdygjy .gt_font_bold {
+#sbrmbfedmd .gt_font_bold {
   font-weight: bold;
 }
 
-#gaavbdygjy .gt_font_italic {
+#sbrmbfedmd .gt_font_italic {
   font-style: italic;
 }
 
-#gaavbdygjy .gt_super {
+#sbrmbfedmd .gt_super {
   font-size: 65%;
 }
 
-#gaavbdygjy .gt_two_val_uncert {
+#sbrmbfedmd .gt_two_val_uncert {
   display: inline-block;
   line-height: 1em;
   text-align: right;
@@ -567,31 +567,31 @@ people, XXX and lower proportions of XXX.
   margin-left: 0.1em;
 }
 
-#gaavbdygjy .gt_footnote_marks {
+#sbrmbfedmd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#gaavbdygjy .gt_asterisk {
+#sbrmbfedmd .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#gaavbdygjy .gt_slash_mark {
+#sbrmbfedmd .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#gaavbdygjy .gt_fraction_numerator {
+#sbrmbfedmd .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#gaavbdygjy .gt_fraction_denominator {
+#sbrmbfedmd .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;
@@ -767,7 +767,8 @@ Humboldt Park, and North Lawndale; on the Southside in neighborhoods
 like Englewood, Pullman, and Woodlawn; and in Southern suburbs like
 Chicago Heights, Harvey, Hazel Crest, Olympia Fields, and Park Forest.
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/30-results_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+<iframe src="https://danielriggins.com/widgets/cook_county_suid_map.html" title="W3Schools Free Online Web Tutorials" width="100%" height="500px" data-external="1">
+</iframe>
 
 ### Modeling SUID Count per Census Tract
 
@@ -838,35 +839,29 @@ Here is information on the R session and its dependencies:
     ## [1] stats     graphics  grDevices utils     datasets  methods   base     
     ## 
     ## other attached packages:
-    ##  [1] rmarkdown_2.14   knitr_1.39       lubridate_1.8.0  tidycensus_1.2.2
-    ##  [5] sf_1.0-7         forcats_0.5.1    stringr_1.4.0    dplyr_1.0.9     
-    ##  [9] purrr_0.3.4      readr_2.1.2      tidyr_1.2.0      tibble_3.1.7    
-    ## [13] ggplot2_3.3.6    tidyverse_1.3.1  targets_0.12.1  
+    ## [1] targets_0.12.1
     ## 
     ## loaded via a namespace (and not attached):
-    ##  [1] fs_1.5.2            webshot_0.5.3       httr_1.4.3          tools_4.2.1        
-    ##  [5] backports_1.4.1     utf8_1.2.2          rgdal_1.5-32        R6_2.5.1           
-    ##  [9] KernSmooth_2.23-20  DBI_1.1.3           colorspace_2.0-3    withr_2.5.0        
-    ## [13] sp_1.5-0            tidyselect_1.1.2    processx_3.7.0      curl_4.3.2         
-    ## [17] compiler_4.2.1      cli_3.3.0           rvest_1.0.2         gt_0.6.0           
-    ## [21] xml2_1.3.3          sass_0.4.1          scales_1.2.0        checkmate_2.1.0    
-    ## [25] classInt_0.4-7      corrr_0.4.3         callr_3.7.0         proxy_0.4-27       
-    ## [29] rappdirs_0.3.3      commonmark_1.8.0    digest_0.6.29       foreign_0.8-82     
-    ## [33] pkgconfig_2.0.3     htmltools_0.5.2     highr_0.9           dbplyr_2.2.1       
-    ## [37] fastmap_1.1.0       htmlwidgets_1.5.4   rlang_1.0.3         readxl_1.4.0       
-    ## [41] rstudioapi_0.13     visNetwork_2.1.0    generics_0.1.3      jsonlite_1.8.0     
-    ## [45] magrittr_2.0.3      Rcpp_1.0.8.3        munsell_0.5.0       fansi_1.0.3        
-    ## [49] lifecycle_1.0.1     stringi_1.7.6       yaml_2.3.5          gtsummary_1.6.1    
-    ## [53] snakecase_0.11.0    grid_4.2.1          maptools_1.1-4      promises_1.2.0.1   
-    ## [57] crayon_1.5.1        lattice_0.20-45     haven_2.5.0         chromote_0.1.0     
-    ## [61] hms_1.1.1           ps_1.7.1            pillar_1.7.0        igraph_1.3.2       
-    ## [65] uuid_1.1-0          base64url_1.4       codetools_0.2-18    reprex_2.0.1       
-    ## [69] glue_1.6.2          evaluate_0.15       data.table_1.14.2   broom.helpers_1.8.0
-    ## [73] modelr_0.1.8        vctrs_0.4.1         tzdb_0.3.0          cellranger_1.1.0   
-    ## [77] webshot2_0.1.0      gtable_0.3.0        assertthat_0.2.1    xfun_0.31          
-    ## [81] janitor_2.1.0       broom_1.0.0         e1071_1.7-11        later_1.3.0        
-    ## [85] class_7.3-20        websocket_1.4.1     tigris_1.6.1        units_0.8-0        
-    ## [89] ellipsis_0.3.2
+    ##  [1] Rcpp_1.0.9              tidyr_1.2.0             class_7.3-20            ps_1.7.1               
+    ##  [5] leaflet.providers_1.9.0 assertthat_0.2.1        digest_0.6.29           utf8_1.2.2             
+    ##  [9] R6_2.5.1                backports_1.4.1         leaflet.extras_1.0.0    evaluate_0.15          
+    ## [13] e1071_1.7-11            ggplot2_3.3.6           pillar_1.8.0            rlang_1.0.4            
+    ## [17] rstudioapi_0.13         data.table_1.14.2       callr_3.7.1             jquerylib_0.1.4        
+    ## [21] checkmate_2.1.0         rmarkdown_2.14          stringr_1.4.0           htmlwidgets_1.5.4      
+    ## [25] igraph_1.3.4            munsell_0.5.0           proxy_0.4-27            compiler_4.2.1         
+    ## [29] xfun_0.31               pkgconfig_2.0.3         htmltools_0.5.3         tidyselect_1.1.2       
+    ## [33] tibble_3.1.7            gridExtra_2.3           corrr_0.4.3             codetools_0.2-18       
+    ## [37] fansi_1.0.3             viridisLite_0.4.0       crayon_1.5.1            dplyr_1.0.9            
+    ## [41] withr_2.5.0             sf_1.0-8                commonmark_1.8.0        grid_4.2.1             
+    ## [45] jsonlite_1.8.0          gtable_0.3.0            lifecycle_1.0.1         DBI_1.1.3              
+    ## [49] magrittr_2.0.3          units_0.8-0             scales_1.2.0            KernSmooth_2.23-20     
+    ## [53] cachem_1.0.6            cli_3.3.0               stringi_1.7.8           farver_2.1.1           
+    ## [57] viridis_0.6.2           broom.helpers_1.8.0     leaflet_2.1.1           bslib_0.4.0            
+    ## [61] ellipsis_0.3.2          generics_0.1.3          vctrs_0.4.1             RColorBrewer_1.1-3     
+    ## [65] tools_4.2.1             glue_1.6.2              purrr_0.3.4             crosstalk_1.2.0        
+    ## [69] processx_3.7.0          fastmap_1.1.0           yaml_2.3.5              colorspace_2.0-3       
+    ## [73] gtsummary_1.6.1         gt_0.6.0                base64url_1.4           classInt_0.4-7         
+    ## [77] knitr_1.39              sass_0.4.2
 
 
 ### Ingestion
@@ -993,6 +988,11 @@ estimates to the first decimal point for consistency:
     ##                     "Six+ Deaths"
     ##                 )
     ##             ),
+    ##             approx_suid_incidence =
+    ##                 round(
+    ##                     suid_count / (pop_under_five / 5) * 1000,
+    ##                     2
+    ##                 ),
     ##             across(
     ##                 .cols = starts_with("svi_"),
     ##                 .fns = ~ round((.x * 100), digits = 1)
@@ -1033,35 +1033,45 @@ palette.
     ##     
     ##     obj1 <-
     ##         # Assign map to a widget object
-    ##         leaflet(suid_sf) |>
+    ##         leaflet::leaflet(suid_sf) |>
     ##             # Use CartoDB's background tiles
-    ##             addProviderTiles("CartoDB.Positron") |>
+    ##             leaflet::addProviderTiles("CartoDB.Positron") |>
     ##             # Center and zoom the map to Cook County
-    ##             setView(lat = 41.816544, lng = -87.749500, zoom = 9) |>
+    ##             leaflet::setView(lat = 41.816544, lng = -87.749500, zoom = 9) |>
     ##             # Add button to enable fullscreen map
     ##             leaflet.extras::addFullscreenControl() |>
     ##             # Add census tract polygons colored to reflect the number of deaths
-    ##             addPolygons(
+    ##             leaflet::addPolygons(
     ##                 # No borders to the polygons, just fill
-    ##                 stroke = FALSE,
+    ##                 color = "gray",
+    ##                 weight = 0.25,
+    ##                 opacity = 1,
     ##                 # Color according to palette above
-    ##                 color = ~ suid_palette(suid_count_factor),
+    ##                 fillColor = ~ suid_palette(suid_count_factor),
     ##                 # Group polygons by number of deaths for use in the layer control
     ##                 group = ~ suid_count_factor,
     ##                 # Make slightly transparent
     ##                 fillOpacity = 0.5,
+    ##                 label = "Click me for more details!",
     ##                 # Click on the polygon to get its ID
-    ##                 popup = ~ paste0("<b>FIPS ID:</b> ", as.character(fips))
+    ##                 popup = 
+    ##                     ~ paste0(
+    ##                         "<b>FIPS ID</b>: ", as.character(fips), "</br>",
+    ##                         "<b>SUID Count</b>: ", suid_count, " deaths</br>",
+    ##                         "<b>Total Population</b>: ", pop_total, " people</br>",
+    ##                         "<b>Population Under 5 Years Old</b>: ", pop_under_five, " children</br>",
+    ##                         "<b>Rough Incidence</b>: ", approx_suid_incidence, " deaths per 1,000 babies"
+    ##                     )
     ##             ) |>
     ##             #Add legend
-    ##             addLegend(
-    ##                 title = "Count of SUID <br> per census tract <br> in Cook County, IL <br> from 2015-2019",
+    ##             leaflet::addLegend(
+    ##                 title = "Count of SUID Cases<br> per census tract <br> in Cook County, IL <br> from 2015-2019",
     ##                 values = ~ suid_count_factor,
     ##                 pal = suid_palette,
     ##                 position = "topright"
     ##             ) |>
     ##             # Add ability to toggle each factor grouping on or off the map
-    ##             addLayersControl(
+    ##             leaflet::addLayersControl(
     ##                 overlayGroups = c(
     ##                     "No Deaths", 
     ##                     "One Death", 
