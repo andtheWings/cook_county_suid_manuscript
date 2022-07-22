@@ -76,16 +76,13 @@ content/53-model_selection.md:22:dataframe
 content/53-model_selection.md:27:suid
 content/53-model_selection.md:30:fips
 content/53-model_selection.md:80:suid
-content/53-model_selection.md:82:riggins
 content/53-model_selection.md:84:multicollinearity
 content/53-model_selection.md:106:opioid
 content/53-model_selection.md:109:suid
-content/53-model_selection.md:111:riggins
 content/53-model_selection.md:113:opioid
 content/53-model_selection.md:113:SUID
 content/53-model_selection.md:124:svi
 content/53-model_selection.md:137:suid
-content/53-model_selection.md:150:riggins
 content/53-model_selection.md:198:glm
 content/53-model_selection.md:201:suid
 content/53-model_selection.md:204:zeroinfl
@@ -142,7 +139,3 @@ content/53-model_selection.md:2272:zeroinfl
 content/53-model_selection.md:2295:AIC
 content/53-model_selection.md:2301:rootograms
 content/53-model_selection.md:2301:rootograms
-content/53-model_selection.md:2310:riggins
-content/53-model_selection.md:2315:riggins
-content/53-model_selection.md:2320:riggins
-content/53-model_selection.md:2325:riggins

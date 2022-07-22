@@ -26,13 +26,13 @@ Matteson
 multicollinearity
 Nagelkerke’s
 negbin
-Opioid
+opioid
 retrodict
 Riggins
 RMSE
 rootograms
 Southside
-suid
+SUID
 SVI
 tidycensus
 viridis

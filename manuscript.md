@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02/))
+([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/))
 was automatically generated
-from [andtheWings/cook_county_suid_manuscript@21ecf80](https://github.com/andtheWings/cook_county_suid_manuscript/tree/21ecf80b93cc2722f4c8c39a6ad62ed9596bfc02)
+from [andtheWings/cook_county_suid_manuscript@7435bb4](https://github.com/andtheWings/cook_county_suid_manuscript/tree/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108)
 on July 22, 2022.
 </em></small>
 
@@ -1282,7 +1282,7 @@ Here is the relationship visualized:
 
     plot(correlation::cor_test(as_tibble(suid), "suid_count", "public_insurance"))
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://i.postimg.cc/vB0RtjFh/unnamed-chunk-3-1.png)
 
 In order to minimize multicollinearity with additional predictor
 variables, we next selected for variables that had some degree of
@@ -1311,7 +1311,7 @@ in each census tract.
 
     plot(correlation::cor_test(as_tibble(suid), "suid_count", "count_opioid_death"))
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](https://i.postimg.cc/5yrZZCtF/unnamed-chunk-5-1.png)
 
 There was a large outlier of many opioid deaths in a tract with no SUID
 deaths, but otherwise, there seemed to be a strong positive trend.
@@ -1350,7 +1350,7 @@ candidate predictors:
         DataExplorer::plot_histogram() |>
         summary()
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](https://i.postimg.cc/SRRBTrmh/unnamed-chunk-6-1.png)
 
     ##  pop_under_five   public_insurance
     ##  Min.   :   0.0   Min.   : 2.50   
@@ -3510,22 +3510,22 @@ Another way to compare the goodness of fit was with a visual check of
 
     ## $poisson
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](https://i.postimg.cc/RZKjDqxN/unnamed-chunk-11-1.png)
 
     ## 
     ## $zero_infl_poisson
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-2.png)
+![](https://i.postimg.cc/SN20cDZL/unnamed-chunk-11-2.png)
 
     ## 
     ## $neb_bin
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-3.png)
+![](https://i.postimg.cc/CM6TZW4L/unnamed-chunk-11-3.png)
 
     ## 
     ## $zero_infl_neg_bin
 
-![](/home/riggins/cook_county_sids_mortality/markdown_output/53-model_selection_files/figure-markdown_strict/unnamed-chunk-11-4.png)
+![](https://i.postimg.cc/fT6GCmFG/unnamed-chunk-11-4.png)
 
 Visually speaking, the negative binomial model type and its
 zero-inflated variant looked almost identical, so we felt further
