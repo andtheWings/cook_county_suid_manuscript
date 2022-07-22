@@ -32,7 +32,7 @@ Riggins
 RMSE
 rootograms
 Southside
-SUID
+suid
 SVI
 tidycensus
 viridis

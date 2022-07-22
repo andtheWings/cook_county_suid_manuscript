@@ -40,7 +40,8 @@ content/30-results.md:618:Nagelkerke’s
 content/30-results.md:629:opioid
 content/30-results.md:635:opioid
 content/30-results.md:641:dataset
-content/50-pipeline.md:7:DPR
+content/50-pipeline.md:6:andtheWings
+content/50-pipeline.md:7:andtheWings
 content/51-ingestion.md:3:DPR
 content/51-ingestion.md:5:tidycensus
 content/51-ingestion.md:5:tidycensus

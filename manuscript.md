@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/" />
   <meta name="citation_pdf_url" content="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://andtheWings.github.io/cook_county_suid_manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/" />
-  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/" />
-  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://andtheWings.github.io/cook_county_suid_manuscript/v/5fbd4e5b4fc43ecb9708ac4addfde5b64ac8ea8a/" />
+  <meta name="manubot_html_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/5fbd4e5b4fc43ecb9708ac4addfde5b64ac8ea8a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://andtheWings.github.io/cook_county_suid_manuscript/v/5fbd4e5b4fc43ecb9708ac4addfde5b64ac8ea8a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108/))
+([permalink](https://andtheWings.github.io/cook_county_suid_manuscript/v/5fbd4e5b4fc43ecb9708ac4addfde5b64ac8ea8a/))
 was automatically generated
-from [andtheWings/cook_county_suid_manuscript@7435bb4](https://github.com/andtheWings/cook_county_suid_manuscript/tree/7435bb4f4da6b1d2c3a4710c3f236e45e4bca108)
+from [andtheWings/cook_county_suid_manuscript@5fbd4e5](https://github.com/andtheWings/cook_county_suid_manuscript/tree/5fbd4e5b4fc43ecb9708ac4addfde5b64ac8ea8a)
 on July 22, 2022.
 </em></small>
 
@@ -803,14 +803,19 @@ Standardized parameters were obtained by fitting the model on a
 standardized version of the dataset.
 
 
-## Supplement 1: Analytic Pipeline
+## Supplement 1: Analytic Pipeline and Custom Functions
 
 ### Pipeline Overview
 
-    library(targets)
+We hosted both the
+[code](https://github.com/andtheWings/cook_county_sids_mortality) and
+[manuscript](https://github.com/andtheWings/cook_county_suid_manuscript)
+on Github.
 
-DPR orchestrated the data pipeline for the primary data analysis with
-the package {[targets](https://docs.ropensci.org/targets/)}.
+We orchestrated the data pipeline for the data analysis with the package
+{[targets](https://docs.ropensci.org/targets/)}.
+
+    library(targets)
 
 If working with this repository and you want a visual overview of the
 pipeline, you can execute:
@@ -930,50 +935,51 @@ Here is information on the R session and its dependencies:
     ##  [61] see_0.7.1          
     ##  [62] sass_0.4.2         
     ##  [63] stringi_1.7.8      
-    ##  [64] bayestestR_0.12.1  
-    ##  [65] maptools_1.1-4     
-    ##  [66] e1071_1.7-11       
-    ##  [67] checkmate_2.1.0    
-    ##  [68] commonmark_1.8.0   
-    ##  [69] rlang_1.0.4        
-    ##  [70] pkgconfig_2.0.3    
-    ##  [71] evaluate_0.15      
-    ##  [72] lattice_0.20-45    
-    ##  [73] htmlwidgets_1.5.4  
-    ##  [74] labeling_0.4.2     
-    ##  [75] processx_3.7.0     
-    ##  [76] tidyselect_1.1.2   
-    ##  [77] DataExplorer_0.8.2 
-    ##  [78] R6_2.5.1           
-    ##  [79] generics_0.1.3     
-    ##  [80] base64url_1.4      
-    ##  [81] DBI_1.1.3          
-    ##  [82] mgcv_1.8-40        
-    ##  [83] pillar_1.8.0       
-    ##  [84] haven_2.5.0        
-    ##  [85] foreign_0.8-82     
-    ##  [86] withr_2.5.0        
-    ##  [87] units_0.8-0        
-    ##  [88] datawizard_0.4.1   
-    ##  [89] sp_1.5-0           
-    ##  [90] janitor_2.1.0      
-    ##  [91] modelr_0.1.8       
-    ##  [92] crayon_1.5.1       
-    ##  [93] uuid_1.1-0         
-    ##  [94] KernSmooth_2.23-20 
-    ##  [95] utf8_1.2.2         
-    ##  [96] correlation_0.8.1  
-    ##  [97] tzdb_0.3.0         
-    ##  [98] rmarkdown_2.14     
-    ##  [99] grid_4.2.1         
-    ## [100] readxl_1.4.0       
-    ## [101] data.table_1.14.2  
-    ## [102] callr_3.7.1        
-    ## [103] reprex_2.0.1       
-    ## [104] digest_0.6.29      
-    ## [105] classInt_0.4-7     
-    ## [106] xtable_1.8-4       
-    ## [107] munsell_0.5.0
+    ##  [64] highr_0.9          
+    ##  [65] bayestestR_0.12.1  
+    ##  [66] maptools_1.1-4     
+    ##  [67] e1071_1.7-11       
+    ##  [68] checkmate_2.1.0    
+    ##  [69] commonmark_1.8.0   
+    ##  [70] rlang_1.0.4        
+    ##  [71] pkgconfig_2.0.3    
+    ##  [72] evaluate_0.15      
+    ##  [73] lattice_0.20-45    
+    ##  [74] htmlwidgets_1.5.4  
+    ##  [75] labeling_0.4.2     
+    ##  [76] processx_3.7.0     
+    ##  [77] tidyselect_1.1.2   
+    ##  [78] DataExplorer_0.8.2 
+    ##  [79] R6_2.5.1           
+    ##  [80] generics_0.1.3     
+    ##  [81] base64url_1.4      
+    ##  [82] DBI_1.1.3          
+    ##  [83] mgcv_1.8-40        
+    ##  [84] pillar_1.8.0       
+    ##  [85] haven_2.5.0        
+    ##  [86] foreign_0.8-82     
+    ##  [87] withr_2.5.0        
+    ##  [88] units_0.8-0        
+    ##  [89] datawizard_0.4.1   
+    ##  [90] sp_1.5-0           
+    ##  [91] janitor_2.1.0      
+    ##  [92] modelr_0.1.8       
+    ##  [93] crayon_1.5.1       
+    ##  [94] uuid_1.1-0         
+    ##  [95] KernSmooth_2.23-20 
+    ##  [96] utf8_1.2.2         
+    ##  [97] correlation_0.8.1  
+    ##  [98] tzdb_0.3.0         
+    ##  [99] rmarkdown_2.14     
+    ## [100] grid_4.2.1         
+    ## [101] readxl_1.4.0       
+    ## [102] data.table_1.14.2  
+    ## [103] callr_3.7.1        
+    ## [104] reprex_2.0.1       
+    ## [105] digest_0.6.29      
+    ## [106] classInt_0.4-7     
+    ## [107] xtable_1.8-4       
+    ## [108] munsell_0.5.0
 
 
 ### Ingestion
